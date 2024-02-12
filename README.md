@@ -9,7 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Github](https://github.com/Afroblman/social-profile-frontend-mentor-project.git)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://social-profile-frontend-mentor-proj.netlify.app/)
 
 
 ### Built with
